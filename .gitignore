@@ -1,0 +1,9 @@
+# Python virtual environment
+venv/
+
+# Build artifacts
+build/
+
+# Tree-sitter parser for Go
+tree-sitter-go/
+
